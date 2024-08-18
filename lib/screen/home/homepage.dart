@@ -8,7 +8,7 @@ import 'package:vaccination/screen/googlemap/googlemap_screen.dart';
 import 'package:vaccination/screen/profile/profilepage.dart';
 import 'package:vaccination/screen/schedule/schedulepage.dart';
 import 'package:vaccination/screen/schedule/vaccinationdetailpage.dart';
-import 'package:vaccination/services/get_server_key.dart';
+// import 'package:vaccination/services/get_server_key.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key? key}) : super(key: key);
