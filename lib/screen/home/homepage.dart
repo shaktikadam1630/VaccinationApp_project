@@ -53,9 +53,9 @@ class _HomePageState extends State<HomePage> {
                 //     builder: (context) => GoogleMapScreen(),
                 //   ),
                 // );
-                GetServerKey getServerKey = GetServerKey();
-                String accesstoken = await getServerKey.getServerKeyToken();
-                print('serverkey $accesstoken');
+                // GetServerKey getServerKey = GetServerKey();
+                // String accesstoken = await getServerKey.getServerKeyToken();
+                // print('serverkey $accesstoken');
               },
             ),
           ),
