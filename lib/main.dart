@@ -27,7 +27,7 @@ void main() async {
       projectId: "vaccinationapp-bd2d9",
     ),
   );
-await NotificationService.initialize();
+//await NotificationService.initialize();
   runApp(
     MultiBlocProvider(
       providers: [
