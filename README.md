@@ -39,4 +39,4 @@ Follow these steps to set up the app locally:
 - [Firebase account](https://firebase.google.com/) set up with a Firestore database.
 - Clone the repository:
   ```bash
-  git clone (https://github.com/shaktikadam1630/VaccinationApp_project/)
+  git clone https://github.com/shaktikadam1630/VaccinationApp_project
